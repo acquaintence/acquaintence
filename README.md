@@ -1,5 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m @acquaintence
+- 🌱 I’m currently learning python & sql
+- ⚡ Fun fact: i make a mean hot sauce 
 
+![Snake animation](https://github.com/acquaintence/acquaintence/blob/output/github-contribution-grid-snake.svg)
+<!---
+acquaintence/acquaintence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <!--
 **acquaintence/acquaintence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
