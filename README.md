@@ -1,6 +1,6 @@
 
 ---
-<pre> <center>
+<pre> <p align="center">
      ██╗███████╗███╗   ██╗███╗   ██╗
      ██║██╔════╝████╗  ██║████╗  ██║
      ██║█████╗  ██╔██╗ ██║██╔██╗ ██║
@@ -8,7 +8,7 @@
 ╚█████╔╝███████╗██║ ╚████║██║ ╚████║
  ╚════╝ ╚══════╝╚═╝  ╚═══╝╚═╝  ╚═══╝
  pleased to make your acquaintence
-</center> </pre>
+</p> </pre>
 ---
 ```yaml
 name: "Jenny Duong"
@@ -18,18 +18,22 @@ located_in: "PNW, USA"
 education:
   [
     "University of Washington: BA in American Ethnic Studies, Minor in Diversity",
-    "Coding Temple: Data Analytics Program",
+    "Coding Temple: Data Analytics Program"
   ]
   
 skills: 
   {
     "Programming Languages" : ["Python", "R", "SQL", "NoSQL"],
-    "Data Visualization & Analysis" : ["R (ggplot2, dplyr)", "Python (Pandas, NumPy, Matplotlib)", "Tableau"],
+    "Data Visualization & Analysis" : ["R (ggplot2, dplyr)", "Python (Pandas, NumPy, Matplotlib)", "Tableau"]
   }
 
 hobbies: [ "Snowboarding", "Gardening", "Karaoke" ]
 
-pets: [ "dog" : "Egg", "cat" : "Fish" ]
+pets: 
+  {
+    "Dog" : "Egg",
+    "Cat" : "Fish"
+  }
 ```
 ![Snake animation](https://github.com/acquaintence/acquaintence/blob/output/github-contribution-grid-snake-dark.svg)
 
